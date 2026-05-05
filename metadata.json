@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Gold AI",
+  "description": "Specialized AI-powered agent for Gold (XAU/USD) market synthesis, sentiment tracking, and automated MT5 execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["XAU/USD Analysis", "Macro Sentiment Synthesis", "MT5 Execution"]
+}
