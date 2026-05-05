@@ -10,7 +10,7 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "electron:dev": "electron .",
-    "build:exe": "npm run build && electron-builder build --win --portable"
+    "build:exe": "npm run build && electron-builder build --win"
   },
   "main": "electron-main.cjs",
   "build": {
